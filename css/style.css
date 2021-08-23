@@ -1,5 +1,5 @@
 .navbarbg {
-  height: 55px;
+  height: 59px;
   background-color: white;
 }
 
@@ -28,15 +28,25 @@ input.searche::placeholder {
   background-color: #f3f2ef;
 }
 
+/* Menü */
 .menutext {
   font-size: 13px;
   font-family: Arial, Helvetica, sans-serif;
   color: gray;
-  margin-top: 5px;
+  margin-top: 7px;
   font-weight: lighter;
   
 }
 
+/* Ben */
+.menutext1 {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  margin-top: 1px;
+  font-weight: lighter;
+  
+}
 .menutext:hover {
   color: black;
 }
