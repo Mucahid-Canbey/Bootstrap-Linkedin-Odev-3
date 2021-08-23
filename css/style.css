@@ -84,9 +84,12 @@ input.content::placeholder {
   font-weight: bolder;
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url(/bootstraplinkedinclone/assets/edit-regular.svg);
+  background-image: url(/assets/edit-regular.svg);
   background-repeat: no-repeat;
   background-size: auto;
+  padding-left: 28px;
+  padding-top: 4px;
+  background-size: 4%;
 }
 
 div.card {
@@ -152,3 +155,4 @@ div.sticky{
   position: sticky;
   top:85px;
 }
+
