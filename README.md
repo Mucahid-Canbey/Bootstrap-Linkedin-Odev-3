@@ -2,7 +2,8 @@
 
 ![Image](https://r.resimlink.com/QvqbJzUg.png) 
 
-###Projede; Bootstrap ile Linkedin benzeri bir sitenin nasıl oluşturulabileceğine dair bir çalışma yaptım.
+
+### Projede; Bootstrap ile Linkedin benzeri bir sitenin nasıl oluşturulabileceğine dair bir çalışma yaptım.
 
 ---
 
